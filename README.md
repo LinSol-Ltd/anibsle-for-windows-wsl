@@ -6,3 +6,15 @@ Prerequisites:
 - Hyper-V
 - Packer (1.6.0)
 - Ansible (installed on WSL)
+
+Step 1: run enable-wsl.ps1
+
+Step 2: run install-ubuntu.ps1 
+
+Step 3: run install-asible.ps1
+
+Step 4: create a anibsle command folder in C:\ansible
+
+Step 5: checkout https://github.com/LinSol-Ltd/anibsle-for-windows-wsl.git to  C:\ansible
+
+Step 6: configure windows path with anisble command folder
